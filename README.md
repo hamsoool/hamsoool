@@ -85,12 +85,6 @@ Hi! I'm **Hans Marcus Robert V. Lacuesta** — a college student with a deep pas
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamsoool&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
 </div>
 
-<br/>
-
-<!-- GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamsoool&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
-</div>
 
 ---
 
