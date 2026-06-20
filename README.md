@@ -18,9 +18,9 @@
 
 ## 🎓 About Me
 
-<img align="right" width="380" src="https://ghchart.rshah.org/7AA2F7/hamsoool" alt="Hans's GitHub Contributions" />
+<img align="right" width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamsoool&theme=tokyonight" alt="Hans's GitHub Contribution Summary" />
 
-Hi! I'm **Hans Marcus Roberto V. Lacuesta** — a college student with a deep passion for crafting things on the web. I enjoy turning ideas into real, working products through clean code and thoughtful design.
+Hi! I'm **Hans Marcus Robert V. Lacuesta** — a college student with a deep passion for crafting things on the web. I enjoy turning ideas into real, working products through clean code and thoughtful design.
 
 - 🎓 **College student** pursuing my degree in Bachelor of Science in Information Technology @ Gordon College
 - 🌐 Focused on **Web Development** — front-end, back-end, and everything in between
@@ -49,14 +49,16 @@ Hi! I'm **Hans Marcus Roberto V. Lacuesta** — a college student with a deep pa
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-**Backend & Databases**
+**Backend**
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**Databases**
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -85,6 +87,12 @@ Hi! I'm **Hans Marcus Roberto V. Lacuesta** — a college student with a deep pa
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamsoool&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
 </div>
 
+<br/>
+
+<!-- GitHub Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hamsoool&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
+</div>
 
 ---
 
