@@ -20,7 +20,7 @@
 
 <img align="right" width="380" src="https://ghchart.rshah.org/7AA2F7/hamsoool" alt="Hans's GitHub Contributions" />
 
-Hi! I'm **Hans Marcus Robert V. Lacuesta** — a college student with a deep passion for crafting things on the web. I enjoy turning ideas into real, working products through clean code and thoughtful design.
+Hi! I'm **Hans Marcus Roberto V. Lacuesta** — a college student with a deep passion for crafting things on the web. I enjoy turning ideas into real, working products through clean code and thoughtful design.
 
 - 🎓 **College student** pursuing my degree in Bachelor of Science in Information Technology @ Gordon College
 - 🌐 Focused on **Web Development** — front-end, back-end, and everything in between
