@@ -20,7 +20,7 @@
 
 <img align="right" width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamsoool&theme=tokyonight" alt="Hans's GitHub Contribution Summary" />
 
-Hi! I'm **Hans Marcus Roberto V. Lacuesta** — a college student with a deep passion for crafting things on the web. I enjoy turning ideas into real, working products through clean code and thoughtful design.
+Hi! I'm **Hans Marcus Robert V. Lacuesta** — a college student with a deep passion for crafting things on the web. I enjoy turning ideas into real, working products through clean code and thoughtful design.
 
 - 🎓 **College student** pursuing my degree in Bachelor of Science in Information Technology @ Gordon College
 - 🌐 Focused on **Web Development** — front-end, back-end, and everything in between
@@ -99,7 +99,7 @@ Hi! I'm **Hans Marcus Roberto V. Lacuesta** — a college student with a deep pa
 ## 🔥 Contribution Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamsoool&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="55%" />
+  <img src="https://streak-stats.demolab.com/?user=hamsoool&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="55%" />
 </div>
 
 ---
