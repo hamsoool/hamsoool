@@ -1,14 +1,12 @@
-<!-- Header Wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%2C%20I'm%20Hans!%20%F0%9F%91%8B&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Web%20Developer%20%7C%20College%20Student%20%7C%20Tech%20Enthusiast&descSize=16&descAlignY=55&descColor=cdd6f4" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%2C%20I'm%20Hans!&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Aspiring%20Software%20Engineer%20%7C%20Web%20Developer%20%7C%20College%20Student&descSize=16&descAlignY=55&descColor=cdd6f4" />
 </div>
 
 <br/>
 
-<!-- Typing SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+for+the+web%2C+one+line+at+a+time;JavaScript+%7C+TypeScript+%7C+Python+dev;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+for+the+web%2C+one+line+at+a+time;JavaScript+%7C+TypeScript+%7C+Python+dev;Always+learning%2C+always+growing" alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,22 +14,23 @@
 
 ---
 
-## 🎓 About Me
+## About Me
 
 <img align="right" width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamsoool&theme=tokyonight" alt="Hans's GitHub Contribution Summary" />
 
-Hi! I'm **Hans Marcus Roberto V. Lacuesta** — a college student with a deep passion for crafting things on the web. I enjoy turning ideas into real, working products through clean code and thoughtful design.
+Hi, I'm **Hans Marcus Roberto V. Lacuesta**, an aspiring software engineer and college student with a strong interest in web development. I enjoy turning ideas into real, working products through clean code and thoughtful design.
 
-- 🎓 **College student** pursuing my degree in Bachelor of Science in Information Technology @ Gordon College
-- 🌐 Focused on **Web Development** — front-end, back-end, and everything in between
-- 🌱 Currently sharpening my skills in **React**, **Node.js**, and **REST APIs**
-- 🤝 Open to collaborating on **open-source projects** and creative builds
+- College student pursuing a Bachelor of Science in Information Technology at Gordon College
+- Aspiring software engineer, focused on building solid fundamentals in software development
+- Working in web development, covering front end, back end, and everything in between
+- Currently sharpening skills in React, Node.js, and REST APIs
+- Open to collaborating on open source projects and creative builds
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -64,7 +63,7 @@ Hi! I'm **Hans Marcus Roberto V. Lacuesta** — a college student with a deep pa
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-**Tools & Platforms**
+**Tools and Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -83,7 +82,7 @@ Hi! I'm **Hans Marcus Roberto V. Lacuesta** — a college student with a deep pa
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hamsoool&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
@@ -93,14 +92,13 @@ Hi! I'm **Hans Marcus Roberto V. Lacuesta** — a college student with a deep pa
 
 <br/>
 
-<!-- GitHub Trophies -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hamsoool&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+## Contribution Streak
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=hamsoool&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="55%" />
@@ -108,7 +106,7 @@ Hi! I'm **Hans Marcus Roberto V. Lacuesta** — a college student with a deep pa
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamsoool&theme=tokyo-night&hide_border=true&area=true" width="100%" />
@@ -116,7 +114,7 @@ Hi! I'm **Hans Marcus Roberto V. Lacuesta** — a college student with a deep pa
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -133,7 +131,6 @@ Hi! I'm **Hans Marcus Roberto V. Lacuesta** — a college student with a deep pa
   <img src="https://komarev.com/ghpvc/?username=hamsoool&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" />
 </div>
 
-<!-- Footer Wave -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer" />
 </div>
