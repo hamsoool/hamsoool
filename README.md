@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%2C%20I'm%20Hans!&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Aspiring%20Software%20Engineer%20%7C%20Web%20Developer%20%7C%20College%20Student&descSize=16&descAlignY=55&descColor=cdd6f4" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%2C%20I'm%20Hans!&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Web%20Developer%20%7C%20Building%20things%20for%20the%20internet&descSize=16&descAlignY=55&descColor=cdd6f4" />
 </div>
 
 <br/>
@@ -83,6 +83,14 @@ I'm currently **open to collaboration and work**, including open source projects
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=hamsoool&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="55%" />
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hamsoool/hamsoool/output/github-snake-dark.svg" alt="Contribution snake" />
 </div>
 
 ---
