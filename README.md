@@ -16,17 +16,11 @@
 
 ## About Me
 
-<img align="right" width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamsoool&theme=tokyonight" alt="Hans's GitHub Contribution Summary" />
+Hi, I'm **Hans Marcus Roberto V. Lacuesta**. I'm a Bachelor of Science in Information Technology student at Gordon College, and I'm aiming to become a software engineer. Right now I'm focused on building strong fundamentals and getting a little better every day.
 
-Hi, I'm **Hans Marcus Roberto V. Lacuesta**, an aspiring software engineer and college student with a strong interest in web development. I enjoy turning ideas into real, working products through clean code and thoughtful design.
+Web development is where I spend most of my time. I like working across the whole stack, from the front end people see to the back end that makes it all tick. Lately I've been sharpening my skills in React, Node.js, and REST APIs, and I love turning a rough idea into something real, with clean code and thoughtful design.
 
-- College student pursuing a Bachelor of Science in Information Technology at Gordon College
-- Aspiring software engineer, focused on building solid fundamentals in software development
-- Working in web development, covering front end, back end, and everything in between
-- Currently sharpening skills in React, Node.js, and REST APIs
-- Open to collaborating on open source projects and creative builds
-
-<br clear="right"/>
+I'm always up for collaborating on open source projects or creative builds, so if you've got something fun in mind, feel free to reach out.
 
 ---
 
@@ -82,34 +76,10 @@ Hi, I'm **Hans Marcus Roberto V. Lacuesta**, an aspiring software engineer and c
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamsoool&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamsoool&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamsoool&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
-</div>
-
----
-
 ## Contribution Streak
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=hamsoool&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="55%" />
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamsoool&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </div>
 
 ---
