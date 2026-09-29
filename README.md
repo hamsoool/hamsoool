@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+for+the+web%2C+one+line+at+a+time;JavaScript+%7C+TypeScript+%7C+Python+dev;Always+learning%2C+always+growing" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+for+the+web%2C+one+line+at+a+time;JavaScript+%7C+TypeScript+%7C+Python+%7C+PHP+dev;Always+learning%2C+always+growing" alt="Typing SVG" />
   </a>
 </div>
 
@@ -18,9 +18,9 @@
 
 Hi, I'm **Hans Marcus Roberto V. Lacuesta**. I'm a Bachelor of Science in Information Technology student at Gordon College, and I'm aiming to become a software engineer. Right now I'm focused on building strong fundamentals and getting a little better every day.
 
-Web development is where I spend most of my time. I like working across the whole stack, from the front end people see to the back end that makes it all tick. Lately I've been sharpening my skills in React, Node.js, and REST APIs, and I love turning a rough idea into something real, with clean code and thoughtful design.
+Web development is where I spend most of my time. I like working across the whole stack, from the front end people see to the back end that makes it all tick. Lately I've been sharpening my skills in React, Node.js, Laravel, and REST APIs, and I love turning a rough idea into something real, with clean code and thoughtful design.
 
-I'm always up for collaborating on open source projects or creative builds, so if you've got something fun in mind, feel free to reach out.
+I'm currently **open to collaboration and work**, including open source projects, freelance gigs, internships, and creative builds. If you've got something in mind, I'd love to hear about it.
 
 ---
 
@@ -31,6 +31,7 @@ I'm always up for collaborating on open source projects or creative builds, so i
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -47,6 +48,7 @@ I'm always up for collaborating on open source projects or creative builds, so i
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 **Databases**
 
@@ -63,6 +65,7 @@ I'm always up for collaborating on open source projects or creative builds, so i
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -88,10 +91,13 @@ I'm always up for collaborating on open source projects or creative builds, so i
 
 <div align="center">
 
+  **Open for collaboration and work. Let's build something together.**
+
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hanslacuesta)
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/hansmarcus)
   [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanslacuesta@gmail.com)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hamaro.vercel.app)
+  [![Sponsor](https://img.shields.io/badge/Sponsor_Me-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/hamsoool)
 
 </div>
 
